@@ -31,7 +31,7 @@ Portfolio/
 
 ## 🔗 Live Demo
 
-coming soon.....
+https://hemantsharma1803.github.io/Personal-Portfolio/
 
 ## 👨‍💻 Author
 
